@@ -9,6 +9,7 @@ Welcome to First Sphinx tutorial's documentation!
 Contents:
 
 .. toctree::
+   intro
    :maxdepth: 2
 
 
